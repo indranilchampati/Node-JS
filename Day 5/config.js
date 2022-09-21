@@ -4,5 +4,5 @@ const config = {
   password: "Blaze@12345",
   database: "hr_db",
 };
-
+//
 module.exports = config;
